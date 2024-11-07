@@ -104,8 +104,8 @@ a{
     border-top-left-radius:50%;
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 10px;
-    width: 850px;
-    height: 632px;
+    width: 60%;
+    height: 99%;
     border: 4px solid lightseagreen;
 }
 #bg:hover{
@@ -190,6 +190,7 @@ button:hover{
 }
 .box{
     margin:25;
+    
     width:31%;
     float:left;
     background:white;
