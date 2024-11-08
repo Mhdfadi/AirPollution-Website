@@ -1,0 +1,1 @@
+alert("Please open in Regular size laptop for better Experience");
